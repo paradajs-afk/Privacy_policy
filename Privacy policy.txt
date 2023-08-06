@@ -1,0 +1,35 @@
+Privacy Policy for Barcode Scanner
+
+This Privacy Policy explains how  ("we", "our", or "us") collects, uses, and discloses your information when you use our mobile application [Your App Name] (the "App") available on the Google Android Store.
+Information We Collect
+
+We may collect the following information when you use our App:
+1.	Personal Information: We may collect certain personal information, such as your name, email address, and other contact details when you provide them to us voluntarily.
+2.	Device Information: We may automatically collect certain information about your device, including your device type, operating system, unique device identifiers, and mobile network information.
+3.	Usage Information: We may collect information about how you use the App, such as the features you use, the content you access, and your interactions with the App.
+
+
+How We Use Your Information
+
+We may use the collected information for the following purposes:
+1.	To provide and improve our services, including troubleshooting, data analysis, and research.
+2.	To communicate with you, respond to your inquiries, and provide you with information about updates or changes to the App.
+3.	To personalize your experience with the App and deliver relevant content and features.
+Disclosure of Your Information
+
+We may share your information in the following circumstances:
+
+1.	Service Providers: We may share your information with third-party service providers who assist us in operating the App and providing related services.
+2.	Legal Compliance: We may disclose your information if required to do so by law or in response to a valid legal request.
+Your Choices
+You can choose not to provide certain information or to disable certain features of the App, but this may impact your ability to use all of the App's features.
+Security
+We take reasonable measures to protect your information from unauthorized access or disclosure.
+
+Children's Privacy
+The App is not intended for use by children under the age of 13. We do not knowingly collect personal information from children under 13. If you are a parent or guardian and believe we may have collected information about a child, please contact us.
+Changes to this Privacy Policy
+We may update this Privacy Policy from time to time. We will notify you of any material changes by posting the updated Privacy Policy in the App.
+Contact Us
+If you have any questions or concerns about this Privacy Policy, please contact us at gregor.agnic370@gmail.com
+
